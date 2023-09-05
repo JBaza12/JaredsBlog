@@ -37,3 +37,4 @@ title: Jared's Blog
 <marquee> <font size="+2.75">I AM READY TO CODE!!!</font></marquee>
 
 <hr>
+
