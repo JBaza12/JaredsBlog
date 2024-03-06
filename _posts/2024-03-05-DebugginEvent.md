@@ -17,7 +17,8 @@ type: tangibles
 <br>
 
 <hr> Frontend Debugging Image <hr>
-<img src="">
+<img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg1.png">
+<img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg2.png">
 <video>
 <source src="https://jbaza12.github.io/JaredsBlog/images/Frontenddubugg.png" type ="video/MP4">
 </video>
