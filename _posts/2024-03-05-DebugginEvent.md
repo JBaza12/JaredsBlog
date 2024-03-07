@@ -20,10 +20,9 @@ type: tangibles
 <img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg1.png">
 <img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg2.png">
 
-<img src="https://jbaza12.github.io/JaredsBlog/images/Frontenddubugg.png">
 
 <video height="400" controls src="https://jbaza12.github.io/JaredsBlog/images/Frontenddubugg.mp4" title="Press play button to end backend debugging session."></video>
 
 <br>
-- <br>
-- nigga
+- These two screenshots show my breakpoints and what happends when I debugg the frontend. It also shows the break at the fetch line.<br>
+- The video shows how I stepped through the lines of code in my frontend and how the backend reacted to each step. I continued to step the frontend until the data finally apeared in my website. 
