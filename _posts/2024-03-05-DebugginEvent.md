@@ -19,9 +19,11 @@ type: tangibles
 <hr> Frontend Debugging Image <hr>
 <img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg1.png">
 <img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg2.png">
-<video>
-<source src="https://jbaza12.github.io/JaredsBlog/images/Frontenddubugg.png" type ="video/MP4">
-</video>
+
+<img src="https://jbaza12.github.io/JaredsBlog/images/Frontenddubugg.png">
+
+<video height="400" controls src="https://jbaza12.github.io/JaredsBlog/images/Frontenddubugg.mp4" title="Press play button to end backend debugging session."></video>
+
 <br>
 - <br>
--
+- nigga
