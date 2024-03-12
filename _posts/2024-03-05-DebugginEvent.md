@@ -7,7 +7,7 @@ courses: {'compsci': {'week': 20}}
 type: tangibles
 ---
 
-<hr> Backend Debugging Image<hr>
+## Backend Debugging Images
 <img src="https://jbaza12.github.io/JaredsBlog/images/Screenshot 2024-03-05 092954.png">
 <br>
 <img src="https://jbaza12.github.io/JaredsBlog/images/debuggingss.png">
@@ -16,7 +16,7 @@ type: tangibles
 - These screen shots show how the information comes up after a certain amount of breaks in my code. This also shows that data that comes up a certain amount of breaks.
 <br>
 
-<hr> Frontend Debugging Image <hr>
+## Frontend Debugging Image
 <img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg1.png">
 <img src="https://jbaza12.github.io/JaredsBlog/images/frontenddebugg2.png">
 
