@@ -3,7 +3,7 @@ toc: True
 comments: True
 layout: post
 title: Debugging Assignment
-courses: {'compsci': {'week': 20}}
+courses: {'compsci': {'week': 25}}
 type: tangibles
 ---
 
